@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="profile banner" width="100%">
+</picture>
 <svg viewBox="0 0 1180 610" width="1180" height="610" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace">
   <title>developer profile hero</title>
 
